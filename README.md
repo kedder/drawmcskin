@@ -46,7 +46,6 @@ run:
 
 ```
 $ drawmcskin scan template.png <your-picture.jpg> skin.png
-
 ```
 
 The output file - `skin.png` is a minecraft skin you can upload to Minecraft.
